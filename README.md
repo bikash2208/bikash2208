@@ -1,1 +1,34 @@
-# shiny-lamp
+# Hi, I'm Bikash Choudhury! 👋
+
+**Software Developer | Ruby on Rails | Open Source Contributor | Aspiring AI Learner**
+
+Passionate about building scalable and impactful solutions, I specialize in **Ruby on Rails, microservices, API development, and system architecture**. With over 3 years of experience, I have contributed to projects in **eCommerce, CRM, healthcare (EHR), and AI-driven automation**.
+
+> [Bluebash Github Account](https://github.com/Bikash-bluebash)
+
+---
+
+## 🛠 Tech Stack & Skills
+- **Backend**: Ruby on Rails, Microservices, API Design
+- **Frontend**: Hotwire, TurboStreams, HTML, CSS, JavaScript
+- **Database**: PostgreSQL, MySQL
+- **DevOps**: Docker, CI/CD, Git
+- **Best Practices**: TDD, DRY, Clean Code, Agile Methodologies
+
+---
+
+## 🌟 Open Source Contributions
+- **[ABDM-Ruby Gem](https://github.com/BlueBash/abdm-ruby)** – Developed the open-source abdm-ruby gem for seamless Ayushman Bharat Digital Mission API integration with EHR.
+
+- **[Mission Control Jobs](https://github.com/rails/mission_control-jobs/pull/240)** – Fix: an issue where previously searched entries appeared in dropdown options, ensuring only valid Job Class and Queue Name Filters are displayed.
+
+- **[OAuth1](https://github.com/lunks/oauth1/pull/13)** – Fix: an authentication bug by resolving double encoding of array parameters in OAuth1 signature generation, restoring API functionality for array-based requests.
+
+---
+
+## 📫 Connect with Me
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bikash22/)
+
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:bikash.choudhury@bluebash.co)
+
+[![My Skills](https://skillicons.dev/icons?i=leetcode&theme=light)](mailto:bikash.choudhury@bluebash.co)
