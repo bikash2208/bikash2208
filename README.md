@@ -1,4 +1,4 @@
-# Hi, I'm Bikash Choudhury! 👋
+<p align="center"> <h1> Hi, I'm Bikash Choudhury! 👋 </h1></p>
 
 **Software Developer | Ruby on Rails | Open Source Contributor | Aspiring AI Learner**
 
@@ -27,8 +27,14 @@ Passionate about building scalable and impactful solutions, I specialize in **Ru
 ---
 
 ## 📫 Connect with Me
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bikash22/)
 
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:bikash.choudhury@bluebash.co)
+<p align="start">
+  <a href="https://www.linkedin.com/in/bikash22/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bikash.choudhury@bluebash.co">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=leetcode&theme=light)](mailto:bikash.choudhury@bluebash.co)
+
