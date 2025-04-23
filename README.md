@@ -34,7 +34,7 @@ Passionate about building scalable and impactful solutions, I specialize in **Ru
   <a href="https://www.linkedin.com/in/bikash22/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
   </a>
-  <a href="mailto:bikash.choudhury@bluebash.co">
+  <a href="mailto:biwork97@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
   </a>
 </p>
