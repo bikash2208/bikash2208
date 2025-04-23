@@ -4,7 +4,9 @@
 
 Passionate about building scalable and impactful solutions, I specialize in **Ruby on Rails, microservices, API development, and system architecture**. With over 3 years of experience, I have contributed to projects in **eCommerce, CRM, healthcare (EHR), and AI-driven automation**.
 
-> [Bluebash Github Account](https://github.com/Bikash-bluebash)
+**🔗 [GitHub Contributions (Bluebash)](https://github.com/Bikash-bluebash)**
+
+**📄 [View My CV](https://www.canva.com/design/DAGhsYPeTEw/g5oox7uHO5xvoVvql7eTrQ/view?utm_content=DAGhsYPeTEw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf50df144d5)**
 
 ---
 
